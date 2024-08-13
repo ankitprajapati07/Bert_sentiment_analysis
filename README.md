@@ -1,10 +1,10 @@
 # Overview of fine-tuned Model
 - This model is fine-tuned on pre-trained model "distilbert-base-uncased".
-- IMDB's movies-review Dataset has been used for Sentiment-Analysis.
+- IMDB's movies-review Dataset has been used for 'Sentiment-Analysis'.
 
 ## Evaluation Score
 - Eval_accuracy: 0.92872
-- 'Eval_precision: 0.92920
+- Eval_precision: 0.92920
 - Eval_recall: 0.92872
 - Eval_f1: 0.92869
 
