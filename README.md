@@ -1,5 +1,5 @@
 # Overview of fine-tuned Model
-- This model is fine-tuned on pre-trained model "distilbert-base-uncased".
+- This model is fine-tuned on pre-trained model "distilbert-base-uncased" from Hugging Face.
 - IMDB's movies-review Dataset has been used for 'Sentiment-Analysis'.
 
 ## Evaluation Score
